@@ -31,7 +31,7 @@ domain: schneider.de.com
 github_username:  schneider-de-com
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 
 # remote_theme: pages-themes/minimal@v0.2.0
 plugins:
