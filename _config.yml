@@ -22,7 +22,7 @@ minima:
 
   skin: dark
 
-  date_format: "%b %-d, %Y"
+  date_format: "%d.%m.%Y"
 
   # generate social links in footer
   social_links:
