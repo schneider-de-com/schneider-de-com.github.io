@@ -4,7 +4,7 @@ title: Impressum
 permalink: /imprint/
 ---
 
-# Impressum
+
 Permanent Media Inh. Sven Schneider
 Chemnitzstr. 5
 38118 Braunschweig
