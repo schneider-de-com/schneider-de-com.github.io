@@ -24,7 +24,7 @@ links_to_prev_next: true
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
 
-  skin: classic
+  skin: auto
 
   date_format: "%d.%m.%Y"
 
