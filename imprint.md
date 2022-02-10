@@ -5,9 +5,9 @@ permalink: /imprint/
 ---
 
 
-Permanent Media Inh. Sven Schneider
-Chemnitzstr. 5
-38118 Braunschweig
+Permanent Media Inh. Sven Schneider  
+Chemnitzstr. 5  
+38118 Braunschweig  
 
 e-Mail: [{{ site.author.email }}](mailto:{{ site.author.email }})
 
