@@ -2,6 +2,10 @@ title: Sven Schneider
 author:
   name: Sven Schneider
   email: vmxa1o16p5v@schneider.de.com
+  street: Chemnitzstr. 5
+  postcode: 38118
+  city: Braunschweig
+  company: Permanent Media Inh. Sven Schneider
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
