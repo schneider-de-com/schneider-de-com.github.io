@@ -19,6 +19,18 @@ domain: schdecom.uber.space
 
 links_to_prev_next: true
 
+# Redirect settings
+collections:
+  redirects:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: redirects
+    values:
+      layout: redirect
+
 # Minima date format
 
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
