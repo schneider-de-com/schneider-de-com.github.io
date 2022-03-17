@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Das Problem mit der Loyalitat"
+title: "Das Problem mit der Loyalitaet"
 categories: job
 author: 
 - Sven Schneider
