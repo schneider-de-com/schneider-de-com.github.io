@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://schdecom.uber.space" # the base hostname & protocol for your site, e.g. http://example.com
-domain: schdecom.uber.space
+url: "https://schneider.de.com" # the base hostname & protocol for your site, e.g. http://example.com
+domain: schneider.de.com
 
 links_to_prev_next: true
 
