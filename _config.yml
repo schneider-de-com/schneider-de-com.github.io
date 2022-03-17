@@ -17,6 +17,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://schneider.de.com" # the base hostname & protocol for your site, e.g. http://example.com
 domain: schneider.de.com
 
+timezone: Europe/Berlin
+
 links_to_prev_next: true
 
 # Minima date format
@@ -27,6 +29,7 @@ minima:
   skin: auto
 
   date_format: "%d.%m.%Y"
+
 
   # generate social links in footer
   social_links:
